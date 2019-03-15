@@ -1,0 +1,1 @@
+simple ARIMA forecasting program. you can simply change csv file with something else and append ARIMA values to forecast other timeseries graphs.
